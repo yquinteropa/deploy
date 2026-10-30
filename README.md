@@ -1,4 +1,4 @@
-# CODIGO-nombre-apellido-iac-aws
+# TALLER CREAR EC2 DESDE GITHUB
 
 Proyecto del taller de Cloud Computing (Ingeniería de Sistemas – UFPSO).
 
@@ -15,12 +15,6 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 
 ## Estudiante
 
-- Nombre: TU NOMBRE COMPLETO
-- Código: TU_CODIGO
+- Nombre: Yorly Quintero Paez
+- Código: 0192277
 - Docente: Wilder Andrés Duarte Neira
-
-## Sitio web desplegado
-
-http://IP_PUBLICA
-
-(La IP cambia si la instancia se vuelve a crear.)

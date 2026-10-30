@@ -72,9 +72,9 @@ Resources:
               <span class="tag">CLOUD COMPUTING · UFPSO</span>
               <h1>${InstanceDescription} 👏</h1>
               <h2>Hola desde CloudFormation con GitHub 🚀</h2>
-              <p><strong>TU NOMBRE COMPLETO</strong> · Código TU_CODIGO<br>
+              <p><strong>Yorly Quintero Paez</strong> · Código 0192277<br>
                  Ingeniería de Sistemas · Universidad Francisco de Paula Santander Ocaña</p>
-              <p>Esta página fue publicada sin entrar al servidor: el repositorio en GitHub
+              <p>Esta página fue publicada sin entrar al servidor: https://github.com/yquinteropa/deploy
                  describe la infraestructura y GitHub Actions la crea en AWS.</p>
               <ul>
                 <li>Infraestructura: AWS CloudFormation</li>
